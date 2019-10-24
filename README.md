@@ -1,1 +1,1 @@
-# vacation-rental-website
+Distributed full stack web application (HomeAway prototype) with authentication, post/search/book properties and upload photo features. Technologies – REST, JavaScript, Node.js, React/Redux, MongoDB, Zookeeper/Kafka, Amazon EC2, mLab  
