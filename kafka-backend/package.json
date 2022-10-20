@@ -18,7 +18,7 @@
     "kafka-node": "^2.5.0",
     "mongodb": "^2.2.31",
     "mongodb-autoincrement": "^1.0.1",
-    "mongoose": "^4.13.17",
+    "mongoose": "^4.13.21",
     "multer": "^1.3.0",
     "nodemailer": "^4.6.4",
     "nodemon": "^1.18.5",
